@@ -3,7 +3,8 @@ package de.zent.giteval;
 public class Bazz {
 
     public String sayHello(){
-        return "Hello!";
+        return "Hello Again!";
+
     }
 
 }
