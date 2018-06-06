@@ -3,7 +3,11 @@ package de.zent.giteval;
 public class Beta {
 
     public Beta(){
-        // de.zent.giteval.Beta
+        // update five
+    }
+
+    public String sayHello() {
+        return "Hello";
     }
 
 }
