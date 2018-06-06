@@ -13,4 +13,7 @@ public class App {
         return "Hello " + name + "!";
     }
 
+    public double getRandomeDouble(){
+        return Math.random();
+    }
 }
