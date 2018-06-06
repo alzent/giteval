@@ -10,4 +10,8 @@ public class Bar {
         return "Hello";
     }
 
+    public double getRandomDouble(){
+        return Math.random();
+    }
+
 }
