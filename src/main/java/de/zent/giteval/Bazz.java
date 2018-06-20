@@ -11,8 +11,8 @@ public class Bazz {
 
     }
 
-    public void calc() {
-    	
+    public int calc() {
+    	return (2*3);
     }
     
 }
