@@ -8,6 +8,7 @@ public class Bazz {
     }
 
     private void blub() {
-    	
+    	System.out.println("Athen");
     }
+    
 }
