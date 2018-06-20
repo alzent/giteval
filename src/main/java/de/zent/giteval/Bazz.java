@@ -15,4 +15,7 @@ public class Bazz {
     	return (2*3);
     }
     
+    public int calc22() {
+    	return 2+2;
+    }
 }
