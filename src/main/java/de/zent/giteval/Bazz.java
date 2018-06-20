@@ -7,4 +7,7 @@ public class Bazz {
 
     }
 
+    private void blub() {
+    	
+    }
 }

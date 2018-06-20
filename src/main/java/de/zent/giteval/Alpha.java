@@ -9,5 +9,10 @@ public class Alpha {
     public String sayHeyllo(){
         return "Hello";
     }
-
+    
+    public String sayGoodBye(){
+        return "GoodBye!";
+    }
+    
+    
 }
