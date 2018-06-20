@@ -11,4 +11,8 @@ public class Bazz {
 
     }
 
+    public void calc() {
+    	
+    }
+    
 }
